@@ -1,0 +1,14 @@
+package arrayPractice;
+
+public class Max_Element {
+
+	public static void main(String[] args) {
+		int A[]= {2,4,6,12,11,9,3,7,99,20,25};
+		for(int i=0;i<A.length;i++) {
+			if(A[i]<=A[i++]) {
+				System.out.println(A[i]);
+			}
+		}
+	}
+
+}

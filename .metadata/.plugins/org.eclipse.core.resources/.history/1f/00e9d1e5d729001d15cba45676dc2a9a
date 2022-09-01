@@ -1,0 +1,10 @@
+package methodsPractice;
+
+public class Gcd_2_numbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
